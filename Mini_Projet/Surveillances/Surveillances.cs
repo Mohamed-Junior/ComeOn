@@ -13,7 +13,7 @@ namespace Mini_Projet
         Seances Seance;
         Salles Salle;
         DateTime DateSurveillance;
-
+        //oooooooooooooooooooooooooooo
         public int PropId
         {
             get { return Id; }
